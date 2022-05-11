@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "YT-MP3",
+  "description": "Transform youtube video to downloadable MP3 file",
+  "version" : "1",
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+    "128": "128.png"
+  },
+  "page_action": {
+    "default_popup" : "popup.html"
+  },
+
+  "background" : {
+    "scripts" : ["background.js"]
+  },
+ 
+  "permissions": [
+    "tabs", 
+    "https://www.youtube.com/",
+    "https://youtube-mp3-download1.p.rapidapi.com/*/",
+    "storage"
+  ]
+
+}
