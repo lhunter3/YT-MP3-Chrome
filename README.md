@@ -10,6 +10,6 @@ https://user-images.githubusercontent.com/80433013/167950104-f635b61e-7ed4-4306-
 
 ## Credits
 
-Icons: Rohit Tripathi
+Icons: Rohit Tripathi\
 File conversion API: https://rapidapi.com/user/ytjar
-------------------
+
